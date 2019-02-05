@@ -12,3 +12,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.rgl-style-1 {
+  width: auto;
+  background-color: #61dafb;
+}
+.rgl-style-2 {
+  width: auto;
+  background-color: #2eabfb;
+}
